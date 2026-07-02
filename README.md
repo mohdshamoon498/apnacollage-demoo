@@ -1,2 +1,3 @@
 # apnacollage-demoo
-this is my first repo
+this is my first repo.
+author - mohd shamoon
